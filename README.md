@@ -1,5 +1,5 @@
 # Braifuck Interpreter
-A interpreter for Brainfuck language written in C++
+An interpreter for Brainfuck language written in C++
 
 # Usage
 Compile the interpreter
