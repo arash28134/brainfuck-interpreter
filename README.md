@@ -1,5 +1,5 @@
 # Braifuck Interpreter
-An interpreter for Brainfuck language written in C++
+An interpreter for [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) language written in C++
 
 # Usage
 Compile the interpreter
@@ -11,4 +11,4 @@ Run
 ```./brainfuck-interpreter```
 
 # License
-See LICENSE.
+See [LICENSE](LICENSE).
