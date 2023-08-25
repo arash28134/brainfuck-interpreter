@@ -22,10 +22,11 @@ using namespace std;
 
 int main()
 {
+    vector<int> tape(30000, 0); // brainfuck tape with 30000 cells
+    int ptr = 0;                // pointer to the current cell (memory address)
+
     while (true)
     {
-        vector<int> tape(30000, 0); // brainfuck tape with 30000 cells
-        int ptr = 0;                // pointer to the current cell (memory address)
         int code_ptr = 0;           // pointer to current code instruction
 
         cout << "> ";
