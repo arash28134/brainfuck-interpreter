@@ -2,17 +2,23 @@
 An interpreter for [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) language written in C++
 
 # Usage
-Compile the interpreter:
+- Compile the interpreter:
 
-```g++ -o brainfuck-interpreter brainfuck-interpreter.cpp```
+```
+g++ -o brainfuck-interpreter brainfuck-interpreter.cpp
+```
 
-Run:
+- Run:
 
-```./brainfuck-interpreter```
+```
+./brainfuck-interpreter
+```
 
-Close the program using *c*:
+- You can close the program using *c*:
 
-```> c```
+```
+> c
+```
 
 # License
 See [LICENSE](LICENSE).
