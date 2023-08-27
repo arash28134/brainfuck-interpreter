@@ -19,6 +19,3 @@ g++ -o brainfuck-interpreter brainfuck-interpreter.cpp
 ```
 > c
 ```
-
-# License
-See [LICENSE](LICENSE).
